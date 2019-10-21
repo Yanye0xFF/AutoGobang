@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1534380418 source:d:\cppprojects\winejavaupdate\main.cpp
+	"main.h"
+	"AIWine.h"
+	"ChessShape.h"
+
+1534379381 d:\cppprojects\winejavaupdate\main.h
+	<windows.h>
+
+1534376965 d:\cppprojects\winejavaupdate\aiwine.h
+	"AITypes.h"
+	"Board.h"
+	"ChessShape.h"
+	<time.h>
+	<iostream>
+	<string>
+
+1534376796 d:\cppprojects\winejavaupdate\aitypes.h
+
+1534377618 d:\cppprojects\winejavaupdate\board.h
+	"Chess.h"
+	"AITypes.h"
+	"ChessShape.h"
+	"HashTable.h"
+	<iostream>
+	<string.h>
+	<vector>
+	<algorithm>
+
+1534377023 d:\cppprojects\winejavaupdate\chess.h
+	"AITypes.h"
+
+1534377053 d:\cppprojects\winejavaupdate\chessshape.h
+	"AITypes.h"
+	<iostream>
+
+1534377208 d:\cppprojects\winejavaupdate\hashtable.h
+	"AITypes.h"
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1534380538 source:d:\cppprojects\winejavaupdate\aiwine.cpp
+	"AIWine.h"
+	"ChessShape.h"
+
+1534380520 source:d:\cppprojects\winejavaupdate\board.cpp
+	"Board.h"
+	"ChessShape.h"
+	<vector>
+	<string.h>
+
+1534377009 source:d:\cppprojects\winejavaupdate\chess.cpp
+	"Chess.h"
+	"ChessShape.h"
+
+1534377170 source:d:\cppprojects\winejavaupdate\chessshape.cpp
+	"ChessShape.h"
+	<iostream>
+	<string.h>
+
+1534380520 source:e:\cppprojects\winejavaupdate\board.cpp
+	"Board.h"
+	"ChessShape.h"
+	<vector>
+	<string.h>
+
+1534377618 e:\cppprojects\winejavaupdate\board.h
+	"Chess.h"
+	"AITypes.h"
+	"ChessShape.h"
+	"HashTable.h"
+	<iostream>
+	<string.h>
+	<vector>
+	<algorithm>
+
+1534377023 e:\cppprojects\winejavaupdate\chess.h
+	"AITypes.h"
+
+1534376796 e:\cppprojects\winejavaupdate\aitypes.h
+
+1534377053 e:\cppprojects\winejavaupdate\chessshape.h
+	"AITypes.h"
+	<iostream>
+
+1534377208 e:\cppprojects\winejavaupdate\hashtable.h
+	"AITypes.h"
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1534377009 source:e:\cppprojects\winejavaupdate\chess.cpp
+	"Chess.h"
+	"ChessShape.h"
+
+1534377170 source:e:\cppprojects\winejavaupdate\chessshape.cpp
+	"ChessShape.h"
+	<iostream>
+	<string.h>
+
+1534380418 source:e:\cppprojects\winejavaupdate\main.cpp
+	"main.h"
+	"AIWine.h"
+	"ChessShape.h"
+
+1534379381 e:\cppprojects\winejavaupdate\main.h
+	<windows.h>
+
+1556110250 e:\cppprojects\winejavaupdate\aiwine.h
+	"AITypes.h"
+	"Board.h"
+	"ChessShape.h"
+	<time.h>
+	<iostream>
+	<string>
+
+1534380656 source:e:\cppprojects\winejavaupdate\aiwine.cpp
+	"AIWine.h"
+	"ChessShape.h"
+
