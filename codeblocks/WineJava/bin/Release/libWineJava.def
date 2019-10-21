@@ -1,0 +1,13 @@
+EXPORTS
+    DllMain @1
+    SomeFunction @2
+    begin @3
+    close @4
+    getBestX @5
+    getBestY @6
+    init @7
+    restart @8
+    setTimeoutMatch @9
+    setTimeoutTurn @10
+    takeBack @11
+    turn @12

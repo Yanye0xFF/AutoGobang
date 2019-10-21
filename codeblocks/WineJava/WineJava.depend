@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1501671754 source:d:\cppprojects\winejava\ai.cpp
+	"AI.h"
+	<ctime>
+	<cstring>
+	<cstdlib>
+	<iostream>
+
+1501671754 d:\cppprojects\winejava\ai.h
+	"Board.h"
+	<ctime>
+
+1533208473 d:\cppprojects\winejava\board.h
+
+1501671754 source:d:\cppprojects\winejava\board.cpp
+	"Board.h"
+	<cstring>
+	<ctime>
+	<cstdlib>
+	<iostream>
+
